@@ -45,6 +45,6 @@ python3 email_automation.py
 Once the script is executed, it will send an email to the specified recipient with the subject and message provided in the script.
 
 ## Support
-For any issues or questions, please open an issue in the [issue tracker](https://github.com/sandeepmvd18/Python-Automation-Scripts.git/issues).
+For any issues or questions, please open an issue.
 
 
