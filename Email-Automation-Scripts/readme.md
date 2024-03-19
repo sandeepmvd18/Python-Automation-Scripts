@@ -10,7 +10,7 @@ This Python script automates the process of sending emails using SMTP (Simple Ma
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/sandeepmvd18/Python-Automation-Scripts.git)
 cd Email-Automation-Scripts
 ```
 
@@ -47,5 +47,4 @@ Once the script is executed, it will send an email to the specified recipient wi
 ## Support
 For any issues or questions, please open an issue in the [issue tracker](https://github.com/sandeepmvd18/Python-Automation-Scripts.git/issues).
 
-```
 
